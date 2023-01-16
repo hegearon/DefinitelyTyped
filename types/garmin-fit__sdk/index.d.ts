@@ -1,6 +1,6 @@
 // Type definitions for @garmin-fit/sdk 0.100
 // Project: https://github.com/garmin/fit-javascript-sdk#readme
-// Definitions by: Áron Hegedüs <https://github.com/DefinitelyTyped>
+// Definitions by: Aron <https://github.com/hegearon>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 // Reference required types from the default lib:
@@ -11,3 +11,4 @@
 
 // Exports
 export { CrcCalculator } from './crc-calculator';
+export { Stream, StreamReadOptions } from './stream';
