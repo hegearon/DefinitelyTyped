@@ -12,3 +12,4 @@
 // Exports
 export { CrcCalculator } from './crc-calculator';
 export { Stream, StreamReadOptions } from './stream';
+export { Profile } from './profile';
